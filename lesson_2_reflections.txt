@@ -1,0 +1,11 @@
+- What happens when you initialize a repository? Why do you
+need to do it?
+
+-- you need to create the inital hidden .git folder to store
+metadata on changes.
+
+- how is the staging area different from the working directory
+and the respository? what value do you think it offers?
+
+-- allows you to add multiple files to one commit, joining
+them together logically. temporary storage. 
